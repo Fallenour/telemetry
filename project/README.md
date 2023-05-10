@@ -11,6 +11,7 @@ Satellite Telemetry Interview Project
 As part of the interview process, a hands-on technical assessment of skillsets has been required. 
 The assessment shall be conducted against a list of requirements provided, and graded based on performance.
 The following code has been presented for the purpose of satisfaction of the aforementioned requirement(s).
+
 ---
 <h2> <u> Specifications Sheet </u> </h2>
 
@@ -91,8 +92,12 @@ The following items are for technical reference in case of bugs, issues, trouble
 <h4> Weak Default Credentials </h4>
 
 > Its a default credential, shared across the interwebs. They ain't Fort Knox blueprints. Change the credential if its a concern with the following:
+<br>
+<br>
 http://127.0.0.1:1337/admin/password_change/
-And yes, its http. Yea, I know. Sir, this is a Wendy's.
+<br>
+<br>
+> And yes, its http. Yea, I know. Sir, this is a Wendy's.
 
 <h4> Microservices Not Dockerized </h4>
 

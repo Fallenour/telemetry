@@ -92,11 +92,7 @@ The following items are for technical reference in case of bugs, issues, trouble
 <h4> Weak Default Credentials </h4>
 
 > Its a default credential, shared across the interwebs. They ain't Fort Knox blueprints. Change the credential if its a concern with the following:
-<br>
-<br>
-http://127.0.0.1:1337/admin/password_change/
-<br>
-<br>
+> http://127.0.0.1:1337/admin/password_change/
 > And yes, its http. Yea, I know. Sir, this is a Wendy's.
 
 <h4> Microservices Not Dockerized </h4>

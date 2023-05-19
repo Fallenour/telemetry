@@ -173,7 +173,7 @@ The issue can be solved by pruning them, by running the following command(s):
 | Chartist              | Chartist.js           | 0.11.0        | <placeholder>      | <placeholder>      |
 | Django                | Django                | 4.1.5         | <placeholder>      | <placeholder>      |
 | Django Rest Framework | Django Rest Framework | 3.14.0        | <placeholder>      | <placeholder>      |
-| Python                | Python                | <placeholder> | <placeholder>      | <placeholder>      |
+| Python Software Foundation                 | Python                | <placeholder> | <placeholder>      | <placeholder>      |
 | Flask                 | Flask                 | 2.3.1         | <placeholder>      | <placeholder>      |
 | Celery                | Celery                | 5.2.7         | <placeholder>      | <placeholder>      |
 | Docker-Compose        | Docker-Compose        | 2.2.0         | <placeholder>      | <placeholder>      |

@@ -54,13 +54,13 @@ Once you have successfully authenticated, go to the following URL:
 To verify services are running:
 
 API JSON Output:
-> curl -X GET 127.0.0.1:1337/api/event/
+> curl 127.0.0.1:1337/api/event/
 
 Satellite-1 is generating data: 
-> curl -X GET 0.0.0.0:9010
+> curl 0.0.0.0:9010
 
 Satellite-2 is generating data:
-> curl -X GET 0.0.0.0:9011
+> curl 0.0.0.0:9011
 
 ---
 <h3> <u> Overview </u></h3>
@@ -97,7 +97,6 @@ The following items are for technical reference in case of bugs, issues, trouble
 http://127.0.0.1:1337/admin/password_change/
 <br>
 <br>
-> And yes, its http. Yea, I know. Sir, this is a Wendy's.
 
 <h4> Microservices Not Dockerized </h4>
 
